@@ -8,6 +8,7 @@ admin_team:
     - admin
     - alkanov
     - zelp
+    - uragus
     - mod1
 mod_team:
   chat:
@@ -22,4 +23,3 @@ tutor_team:
     icon_set: skill_iconset
     index: 109
   members:
-    - uragus
